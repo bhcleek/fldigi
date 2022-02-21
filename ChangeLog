@@ -1,6 +1,31 @@
-2021-08-04  dave-w1hkj  <w1hkj@bellsouth.net>
+2022-02-21  dave-w1hkj  <w1hkj@bellsouth.net>
 
-	5e5a5ba1d: Version 4.1.20
+	981a83745: alpha
+	f234757f9: dxcluster
+	fa7907aa2: flrig poll
+	c56863500: log macro
+	5f4ba2158: flarq using fix
+	601c92ce6: WinKeyer
+	17ea5b6da: RsID EOT
+	495b21a5e: using namespace std
+	0bf5a5dd4: CW/FSK
+	090ba7e0e: psk reporter
+	b4f9178fa: Documentation
+	aac38aa90: FFT Monitor update
+	b87089438: CW multi-channel
+	328e4332b: FSK keying
+	5a2398c99: fmt debug file
+	06e9adddf: PO translator recognition
+	378c708ee: IFKP Avatar
+	220e8ef08: xmlrpc QSY
+	3c91aeba4: Mode Parameters
+	0b7126c03: Documentation update
+	c483b7dda: MAPIT macro
+	27e023402: Polish translation update
+	54b824371: KNWD cat keying
+	5bd966c43: synop event reporting
+	ca48d6523: MacOS Lion seg fault
+	feddecc77: Version 4.1.20
 	fe8262fca: Cosmetic changes
 	0fdaa3870: xmlrpc id
 	8caa7f8e0: Gleam scheme
